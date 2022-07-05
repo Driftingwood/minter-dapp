@@ -1,4 +1,6 @@
-const abi = {
+const abi = 
+[
+  {
   "response": "OK",
   "abi": [
     {
@@ -1486,3 +1488,4 @@ const abi = {
     }
   ]
 }
+]
