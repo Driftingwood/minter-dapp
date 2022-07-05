@@ -1,4 +1,4 @@
-const abi = [{
+const abi = {
   "response": "OK",
   "abi": [
     {
@@ -1485,4 +1485,4 @@ const abi = [{
       "signature": "0x476343ee"
     }
   ]
-}]
+}
